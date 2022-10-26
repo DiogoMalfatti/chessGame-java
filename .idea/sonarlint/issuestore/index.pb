@@ -9,8 +9,6 @@ I
 src/chess/ChessPiece.java,7\1\71903bb1710ecb2497d05dbcfd95a7ebafcda239
 D
 src/chess/Color.java,6\f\6f5048016a57bbf452eb3bb3965bb62dfb909033
-G
-src/application/UI.java,f\0\f00b20a2ba12c03e5a4a25b29cdf3cfe45d9a93c
 J
 src/chess/pieces/King.java,d\9\d9b3000faae84ba619d472bc343f9814addae9c3
 J
