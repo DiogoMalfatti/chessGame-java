@@ -33,3 +33,5 @@ L
 src/chess/ChessPosition.java,9\0\90a7f058c20369970d1f5d1c161ad421280924ef
 G
 src/application/UI.java,f\0\f00b20a2ba12c03e5a4a25b29cdf3cfe45d9a93c
+I
+src/chess/ChessPiece.java,7\1\71903bb1710ecb2497d05dbcfd95a7ebafcda239
